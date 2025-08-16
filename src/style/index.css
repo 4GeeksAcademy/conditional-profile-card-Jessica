@@ -1,5 +1,8 @@
 .filters {
-  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 255, 255);
   width: 100%;
 }
 .filters li {
